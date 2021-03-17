@@ -11,9 +11,9 @@ public class ex02 {
        ArrayList<Integer> par = new ArrayList<>();
        ArrayList<Integer> impar = new ArrayList<>();
         
-      int n=0;
+      
       int i=0;
-      int num=0;
+      
 
 
 
